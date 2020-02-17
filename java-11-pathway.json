@@ -1,0 +1,12 @@
+{
+    "title": "Java 11",
+    "icon": "fa-java",
+    "description": "Learn the new features of Java 11.",
+    "courses": [
+      {
+        "course_id": "launch-single-file",
+        "title": "Launching single-file programs",
+        "description": "Learn how to launch single-file programs without compilation."
+      }
+    ]
+  }

@@ -1,10 +1,10 @@
 {
-  "title": "Beginning Java 11",
-  "description": "Learn how to use Java 11 features",
+  "title": "Launching Single-File Programs",
+  "description": "Learn how to launch single-file programs without compilation.",
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Launch",
+        "title": "Step 1",
         "text": "step1.md"
       }
     ],
